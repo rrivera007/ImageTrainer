@@ -1,0 +1,2 @@
+# ImageTrainer
+This data mining program creates a data set using multiple links within a text file to help it recognize different variations a couple different objects (EX: apples and banannas). Using different classiefers such as decision trees and neural network, the user can give the program an image and it will tell you what that image is. Accuracy depends on which classifer is used, this program utilzes Weka in order to function properly
